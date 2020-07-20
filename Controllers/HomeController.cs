@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using FriendLetter.Models;
+using MadLib.Models;
 
 namespace MadLib.Controllers
 {

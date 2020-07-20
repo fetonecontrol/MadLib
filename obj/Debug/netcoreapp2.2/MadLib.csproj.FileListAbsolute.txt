@@ -15,11 +15,11 @@
 /Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/MadLib.TagHelpers.output.cache
 /Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/MadLib.RazorCoreGenerate.cache
 /Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/Razor/Views/Home/Form.g.cshtml.cs
-/Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/Razor/Views/Home/Letter.g.cshtml.cs
-/Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/Razor/Views/Home/Postcard.g.cshtml.cs
 /Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/MadLib.RazorTargetAssemblyInfo.cache
 /Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/MadLib.RazorTargetAssemblyInfo.cs
 /Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/MadLib.Views.pdb
 /Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/MadLib.dll
 /Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/MadLib.pdb
 /Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/MadLib.csproj.CopyComplete
+/Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/Razor/Views/Home/DefaultText.g.cshtml.cs
+/Users/frederickernest/Desktop/MadLib.Solution/MadLib/obj/Debug/netcoreapp2.2/Razor/Views/Home/MadLib.g.cshtml.cs
